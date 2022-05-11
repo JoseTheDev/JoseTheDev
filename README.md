@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseTheDev
 - 
-- 👀 I’m interested in Web Development with Python
+- 👀 I’m interested in Web Development with Play Framework
 - 🌱 I’m currently learning and working in Android Development with Java
 
 <!---
